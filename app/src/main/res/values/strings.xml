@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">00001_HelloWorld</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-5108101572891948/7657321118</string>
 </resources>
