@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="Hello World!" />
+        android:text="你好，世界!" />
 
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
